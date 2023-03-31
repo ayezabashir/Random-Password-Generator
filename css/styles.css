@@ -28,6 +28,7 @@ input:focus-visible {
   background-color: #fff;
 }
 .row {
+  padding: 5px;
   width: 100%;
   display: flex;
   color: #747474;
